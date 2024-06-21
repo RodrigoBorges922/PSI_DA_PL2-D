@@ -1,4 +1,4 @@
-# Projeto_MDS
+# PSI_DA_PL2-D
 
 ![download](https://github.com/RodrigoBorges922/Projeto_MDS/assets/145819139/a393caf0-5bf6-4fec-95d3-0dde07e0129a)
 
